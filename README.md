@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Full stack app development**
 
-- 💬 Ask me about **Flutter | Firebase | REST API**
+- 💬 Ask me about **Flutter | Firebase | REST API | State Management**
   
-- 📫 How to reach me **https://www.linkedin.com/in/asimiqbal-dev/**
+- 📫 How to reach me **https://www.linkedin.com/in/asimiqbal-dev/ **
 
 - 📫 How to reach me **its.asim.iqball@gmail.com**
 
