@@ -6,7 +6,6 @@
 
 - 📱 Built 20+ Flutter apps, live on the App Store and Google Play
 - 🤖 Integrated AI APIs, in-app purchases (RevenueCat) and ads (AdMob)
-- 🌱 Currently learning AI engineering: LLMs, RAG and AI agents
 - 📫 Reach me: its.asim.iqball@gmail.com · [LinkedIn](https://www.linkedin.com/in/asimiqbal-dev/)
 
 ### 🛠️ Tech
